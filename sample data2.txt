@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper pack 1","desc":"Barvikha RP is an online role-playing game that has gained immense popularity in recent years. The game allows players to create their own characters, interact with others, and explore a vast virtual world. To fully enjoy the game, players need to download the Barvikha RP application. In this article, we'll guide you on how to download and install the Barvikha RP application.","photo":"https://iili.io/HO6LoXe.jpg"},
+  {"title":"advance mod 2","desc":"Online role-playing game Barvikha RP has been extremely popular in recent years. Players can build their own characters, interact with other users, and explore a large virtual world in the game. Players must download the Barvikha RP program to properly enjoy the game. We'll walk you through downloading and installing the Barvikha RP program in this article.","photo":"https://iili.io/HO6LxLu.jpg"},
+  {"title":"how to use this app 3","desc":"The first step in downloading the Barvikha RP application is to determine the platform you want to use. The application is available for both Android and iOS devices. If you're using an Android device, head over to the Google Play Store. If you're using an iOS device, head over to the App Store.","photo":"https://iili.io/HO6LnI9.jpg"},
+  {"title":"tips pack 4","desc":"Once you're in the Google Play Store or App Store, type "Barvikha RP" into the search bar. The search results will show the Barvikha RP application as the first option.","photo":"https://iili.io/HOpLqUN.jpg"},
+  {"title":"advice mod 5","desc":"After finding the Barvikha RP application, click on the "Download" button. The application will start downloading, and the download time will depend on your internet speed.","photo":"https://iili.io/HOpLhgV.jpg"},
+  {"title":"helper pack 6","desc":"Once the download is complete, click on the "Install" button. The installation process will begin, and it may take a few minutes to complete.","photo":"https://iili.io/HO6LcI1.jpg"},
+  {"title":"advance mod 7","desc":"After the installation is complete, click on the "Open" button to launch the Barvikha RP application. You'll need to create an account or log in with your existing account to start playing the game.","photo":"https://iili.io/HOpQJ7S.jpg"},
+  {"title":"tips pack 8","desc":"Click the "Open" button to start the Barvikha RP application after the installation is finished. To begin playing the game, you must either create an account or sign in with an existing one.","https://iili.io/HOpLZIn.jpg"}
 
    ]
  
