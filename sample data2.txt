@@ -19,30 +19,32 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2370277-1",
-"yandex_inter":"R-M-2370277-3",
-"yandex_native":"R-M-2370277-2",
-"yandex_reward":"R-M-2370277-4",
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
+
+
+
+"start_vpn":"yes",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob"
   
-
-
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
   
 
 },
-  "my_data":[
-  {"title":"helper pack 1","desc":"Barvikha RP is an online role-playing game that has gained immense popularity in recent years. The game allows players to create their own characters, interact with others, and explore a vast virtual world. To fully enjoy the game, players need to download the Barvikha RP application. In this article, we'll guide you on how to download and install the Barvikha RP application.","photo":"https://iili.io/HO6LoXe.jpg"},
-  {"title":"advance mod 2","desc":"Online role-playing game Barvikha RP has been extremely popular in recent years. Players can build their own characters, interact with other users, and explore a large virtual world in the game. Players must download the Barvikha RP program to properly enjoy the game. We'll walk you through downloading and installing the Barvikha RP program in this article.","photo":"https://iili.io/HO6LxLu.jpg"},
-  {"title":"how to use this app 3","desc":"The first step in downloading the Barvikha RP application is to determine the platform you want to use. The application is available for both Android and iOS devices. If you're using an Android device, head over to the Google Play Store. If you're using an iOS device, head over to the App Store.","photo":"https://iili.io/HO6LnI9.jpg"},
-  {"title":"tips pack 4","desc":"Once you're in the Google Play Store or App Store, type "Barvikha RP" into the search bar. The search results will show the Barvikha RP application as the first option.","photo":"https://iili.io/HOpLqUN.jpg"},
-  {"title":"advice mod 5","desc":"After finding the Barvikha RP application, click on the "Download" button. The application will start downloading, and the download time will depend on your internet speed.","photo":"https://iili.io/HOpLhgV.jpg"},
-  {"title":"helper pack 6","desc":"Once the download is complete, click on the "Install" button. The installation process will begin, and it may take a few minutes to complete.","photo":"https://iili.io/HO6LcI1.jpg"},
-  {"title":"advance mod 7","desc":"After the installation is complete, click on the "Open" button to launch the Barvikha RP application. You'll need to create an account or log in with your existing account to start playing the game.","photo":"https://iili.io/HOpQJ7S.jpg"},
-  {"title":"tips pack 8","desc":"Click the "Open" button to start the Barvikha RP application after the installation is finished. To begin playing the game, you must either create an account or sign in with an existing one.","https://iili.io/HOpLZIn.jpg"}
-
+ 
+ "my_data":[
+  {"title":"Advice mod 1","desc":"Weapons: The game features a wide range of weapons, including pistols, shotguns, rifles, and sniper rifles. Each weapon has its own unique characteristics, such as damage, ","photo":"https://iili.io/HSun9ou.jpg"},
+  {"title":"helper pack 2","desc":"Maps: The game features a variety of maps, each with its own unique layout and design. Some maps are open and spacious, while others are tight and confined, requiring a different playstyle.","photo":"https://iili.io/HSun3cQ.jpg"},
+  {"title":"how to use this app 3","desc":"Skins: Players can customize their characters and weapons with skins. Skins can be earned through gameplay or purchased in the in-game store.","photo":"https://iili.io/HSun2Kx.jpg"},
+  {"title":"Tips mod 4","desc":"Modes: MOD Standoff 2 offers various game modes, including deathmatch, capture the flag, and defuse the bomb. Each mode requires a different strategy and playstyle.","photo":"https://iili.io/HSnz5PV.jpg"},
+  {"title":"advance pack 5","desc":"Ranking System: The game has a ranking system that allows players to progress through the game and earn rewards.","photo":"https://iili.io/HSnzYKB.jpg"},
+  {"title":"helper mod 6","desc":"In-game Store: Players can purchase skins, weapons, and other items in the in-game store using in-game currency or real money.","photo":"https://iili.io/HSnzENa.jpg"},
+  {"title":"how to use this app 7","desc":"MOD Standoff 2 has become a popular game due to its fast-paced gameplay, intuitive controls, and variety of features. The game is easy to pick up and play, making it accessible to players of all skill levels.","photo":"https://iili.io/HSnz0HF.jpg"},
+  {"title":"tips pack 8","desc":"Additionally, the game's ranking system and rewards provide players with a sense of progression and accomplishment.","photo":"https://iili.io/HSunBN1.jpg"}
    ]
  
 }
